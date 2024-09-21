@@ -1,7 +1,7 @@
 import java.util.Arrays;
 
 public class FindMissingNumber {
-    static int[] arr = {1, 2, 4, 6, 3, 7, it};
+    static int[] arr = {1, 2, 4, 6, 3, 7, 8};
     static int N = 8;
 
     public static void main(String[] args) {
